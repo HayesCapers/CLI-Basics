@@ -1,0 +1,17 @@
+ls -l or -la
+	- | - - - | - - - | - - - 
+	directory or no? | owner permission | group permission | anon permission
+	d or nothing.      |      r     w    x          |     r    w    x          |    r     w     x      
+sudo = pretend to be root = Neo
+-r = recursive
+f = force
+rm = remove
+**sudo rm -rf [file/directory]** (FUCK YOU computer. Delete this NOW!) **BE CAREFUL!
+Copying
+	cp [what to copy] [what to name new copy]
+Move —> mv
+	mv [file to move] [new file name]
+
+GIT: source control
+	“Freezes” code as a version (1, 2, 3,) allowing you to go back to previous version without losing changes that have been made. Kind of like “save as” for code, but it doesn’t save them as new files… it’s black magic.
+locate - allows you search for files on OS
